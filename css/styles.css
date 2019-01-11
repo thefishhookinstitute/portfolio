@@ -1,5 +1,5 @@
 h1 {
-  font-family: fantasy;
+  font-family: sans-serif;
 }
 h2 {
   color: blue;
@@ -9,10 +9,12 @@ p.important{
   font-weight: bold;
 }
 .fancy {
-  font-family: cursive;
+  font-family: serif;
 }
 .ulshading {
-  font-variant: small-caps;
+  font-variant:small-caps;
+  font-family: monospace;
+  font-size: 20px;
 }
 .special {
   color: red;
@@ -21,7 +23,7 @@ img.main {
   float: left;
   margin: 12px;
   border: 4px;
-  border-style: dotted;
+  border-style: solid;
   border-color: blue;
   padding: 2px;
 }
