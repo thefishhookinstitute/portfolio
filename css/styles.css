@@ -1,1 +1,27 @@
-
+h1 {
+  font-family: fantasy;
+}
+h2 {
+  color: blue;
+}
+p.important{
+  color: tan;
+  font-weight: bold;
+}
+.fancy {
+  font-family: cursive;
+}
+.ulshading {
+  font-variant: small-caps;
+}
+.special {
+  color: red;
+}
+img.main {
+  float: left;
+  margin: 12px;
+  border: 4px;
+  border-style: dotted;
+  border-color: blue;
+  padding: 2px;
+}
