@@ -5,11 +5,12 @@ h2 {
   color: blue;
 }
 p.important{
-  color: tan;
+  color: white;
   font-weight: bold;
 }
 .fancy {
   font-family: serif;
+  font-weight: bolder;
 }
 .ulshading {
   font-variant:small-caps;
@@ -26,4 +27,10 @@ img.main {
   border-style: solid;
   border-color: blue;
   padding: 2px;
+}
+p {
+  background-color: lightblue;
+}
+.teal {
+  background-color: lightgreen;
 }
